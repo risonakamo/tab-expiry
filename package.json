@@ -1,0 +1,22 @@
+{
+  "name": "tab-timer",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "vite build -w false",
+    "watch": "vite build -w true"
+  },
+  "dependencies": {
+    "@types/chrome": "^0.0.267",
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.2.1",
+    "less": "^4.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "rollup": "^4.17.2",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.11",
+    "vite-plugin-checker": "^0.6.4",
+    "vite-tsconfig-paths": "^4.3.2"
+  }
+}
